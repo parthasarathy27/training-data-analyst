@@ -1,4 +1,4 @@
-# GCP Training Labs and Demos
+# GCP ☁️ Training Labs and Demos
 
 Welcome to the GCP Training Labs and Demos repository! This project is designed to help learners enhance their skills and knowledge in using Google Cloud Platform through hands-on practical exercises.
 
