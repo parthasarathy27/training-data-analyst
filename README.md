@@ -39,7 +39,7 @@ Contributions to this project are welcome! Please review the contributing guidel
 
 ## License
 
-This project is licensed under the terms of the [MIT license].
+This project is licensed under the terms of the [MIT license](LICENSE).
 
 ## Support
 
