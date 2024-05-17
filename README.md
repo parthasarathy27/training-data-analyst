@@ -8,7 +8,7 @@ This repository contains a series of labs and demo projects that accompany the c
 
 ## Getting Started
 
-To begin with the labs and demos, follow these steps:
+To begin with the labs and demos, follow these steps:-
 
 1. **Prerequisites:**
    - Create a Google Cloud account if you don't already have one.
